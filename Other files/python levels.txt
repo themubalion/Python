@@ -1,0 +1,6 @@
+Level 0 : Absolute beginner
+Level 1 : Object oriented Programming
+Level 2 : Socket programming
+Level 3 : Concurrent programming
+Level 4 : Data structures and Algorithmns
+Level 5 : Advanced Python

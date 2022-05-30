@@ -1,0 +1,76 @@
+ <users>
+ <user username="Mubalion">
+ <name>
+Muhammad Mubashshir Ali</name>
+ <dob>
+15/07/2005</dob>
+ <password>
+202000252</password>
+ <email>
+jssmithsa6516@gmail.com</email>
+ <phone>
+7088552062</phone>
+ </user>
+ <user username="Mubalion">
+ <name>
+Mubashshir Ali</name>
+ <dob>
+15/07/2005</dob>
+ <password>
+20526220</password>
+ <email>
+jssmithsa6516@gmail.com</email>
+ <phone>
+9548902533</phone>
+ </user>
+ <user username="Multiverse">
+ <name>
+Mudassir Ali</name>
+ <dob>
+17/09/2004</dob>
+ <password>
+20200202</password>
+ <email>
+mudassirali1297@gmail.com</email>
+ <phone>
+9639387791</phone>
+ </user>
+ <user username="">
+ <name>
+ljdf</name>
+ <dob>
+</dob>
+ <password>
+55555555</password>
+ <email>
+</email>
+ <phone>
+5555555555</phone>
+ </user>
+ <user username="jlfkjasfj">
+ <name>
+lasjflkas</name>
+ <dob>
+654456</dob>
+ <password>
+55555555</password>
+ <email>
+</email>
+ <phone>
+</phone>
+ </user>
+
+        <user username="Tiger Gaming">
+            <name>Sufiyan Ali</name>
+            <dob>25/12/2012</dob>
+            <password>Mubalion</password>
+            <email>mohdsufiyan124124@gmail.com</email>
+            <phone>8439858371</phone>
+        </user> </users>
+
+<xs:complextType name="person">
+<xs:sequence><xs:element name="dob">
+<xs:sequence><xs:element name="pasword">
+<xs:sequence><xs:element name="email">
+</xs:sequence>
+</xs:complextType>
